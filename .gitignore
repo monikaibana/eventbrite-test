@@ -1,0 +1,8 @@
+#prevent committing these files to the repo
+node_modules
+.DS_Store
+public/.DS_Store
+.vscode
+
+#ignore api keys
+cypress.env.json
