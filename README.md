@@ -25,13 +25,9 @@ Next, install all dependencies
 
 ##### `npm i`
 
-Next, create an env file
+Next, create file for environment variables
 
-##### `mkdir cypress.env.json`
-
-Next, cd into this file
-
-##### `cd cypress.env.json`
+##### `touch cypress.env.json`
 
 Next, add environment variables
 
